@@ -1,4 +1,6 @@
 class Owner
   
   
+  
+  
 end
